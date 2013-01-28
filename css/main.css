@@ -21,6 +21,9 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    background-color: #000;
+    color: rgb(240, 240, 240);
+    text-align: center;
 }
 
 /*
@@ -93,21 +96,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.outer {
+    font-size: 10em;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.approved {
+    color: rgb(0, 255, 0);
+    text-decoration: blink;
+}
 
 /* ==========================================================================
    Helper classes
